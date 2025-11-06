@@ -1,0 +1,4 @@
+com\hotstar\automation\test\HotstarLoginTest.class
+com\hotstar\automation\test\HotstarSearchTest.class
+com\hotstar\automation\test\HotstarTitleTest.class
+com\hotstar\automation\test\TestBase.class

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-05T23:24:12 IST" name="Surefire suite" finished-at="2025-11-05T23:27:15 IST" duration-ms="183406">
+    <groups>
+    </groups>
+    <test started-at="2025-11-05T23:24:12 IST" name="Surefire test" finished-at="2025-11-05T23:27:15 IST" duration-ms="183406">
+      <class name="com.hotstar.automation.test.HotstarTitleTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hotstar.automation.test.HotstarTitleTest@69b2283a]" started-at="2025-11-05T23:26:25 IST" name="setUp" finished-at="2025-11-05T23:26:27 IST" duration-ms="1869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHotstarTitle()[pri:0, instance:com.hotstar.automation.test.HotstarTitleTest@69b2283a]" started-at="2025-11-05T23:26:27 IST" name="testHotstarTitle" finished-at="2025-11-05T23:27:15 IST" duration-ms="47651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHotstarTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hotstar.automation.test.HotstarTitleTest@69b2283a]" started-at="2025-11-05T23:27:15 IST" name="tearDown" finished-at="2025-11-05T23:27:15 IST" duration-ms="478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hotstar.automation.test.HotstarTitleTest -->
+      <class name="com.hotstar.automation.test.HotstarLoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hotstar.automation.test.HotstarLoginTest@1ffe63b9]" started-at="2025-11-05T23:24:12 IST" name="setUp" finished-at="2025-11-05T23:24:14 IST" duration-ms="2411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginFunctionality()[pri:0, instance:com.hotstar.automation.test.HotstarLoginTest@1ffe63b9]" started-at="2025-11-05T23:24:14 IST" name="testLoginFunctionality" finished-at="2025-11-05T23:25:15 IST" duration-ms="61410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hotstar.automation.test.HotstarLoginTest@1ffe63b9]" started-at="2025-11-05T23:25:15 IST" name="tearDown" finished-at="2025-11-05T23:25:16 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hotstar.automation.test.HotstarLoginTest -->
+      <class name="com.hotstar.automation.test.HotstarSearchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hotstar.automation.test.HotstarSearchTest@bef2d72]" started-at="2025-11-05T23:25:16 IST" name="setUp" finished-at="2025-11-05T23:25:17 IST" duration-ms="1406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSearchFunctionality()[pri:0, instance:com.hotstar.automation.test.HotstarSearchTest@bef2d72]" started-at="2025-11-05T23:25:17 IST" name="testSearchFunctionality" finished-at="2025-11-05T23:26:24 IST" duration-ms="67398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hotstar.automation.test.HotstarSearchTest@bef2d72]" started-at="2025-11-05T23:26:24 IST" name="tearDown" finished-at="2025-11-05T23:26:25 IST" duration-ms="490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hotstar.automation.test.HotstarSearchTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
